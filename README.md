@@ -35,13 +35,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/heyseppy/repo">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://images.all-free-download.com/images/graphicthumb/movie_logo_design_text_reel_filmstrip_icons_decoration_6829232.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">movienight!</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    desktop application for viewing movies together!
     <br />
     <a href="https://github.com/heyseppy/repo"><strong>Explore the docs »</strong></a>
     <br />
