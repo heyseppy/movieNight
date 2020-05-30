@@ -73,7 +73,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://imgur.com/tm6cRCu)
+[![Product Name Screen Shot][product-screenshot]](https://imgur.com/oveWKvt)
 
 This project was my creation of a desktop app for a netflix-party type app, the concept is simple: A user creates a party room and then selects a media type link in any format such as: mp4, youtube, vimeo, mov, mkv (within the bounds of windows media player) and then users that join his/her room are able to (with permission of course) pause/play/ff the movie for everyone in the room, Making quarantine a little more fun for everyone.
 
@@ -112,7 +113,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Sep Kimiaei - [@email_handle](sepkimiaei1@gmail.com) - email
+Sep Kimiaei - [@sepkimiaei1@gmail.com](sepkimiaei1@gmail.com) - email
 
 Project Link: [https://github.com/heyseppy/movieNight](https://github.com/heyseppy/movieNight)
 
