@@ -74,7 +74,7 @@
 ## About The Project
 
  <img src="https://i.imgur.com/tm6cRCu.png" alt="Logo" width="400" height="400">
- <img src="https://i.imgur.com/oveWKvt.png" alt="Logo" width="1200" height="1000">
+ <img src="https://i.imgur.com/oveWKvt.png" alt="Logo" width="1200" height="600">
 
 This project was my creation of a desktop app for a netflix-party type app, the concept is simple: A user creates a party room and then selects a media type link in any format such as: mp4, youtube, vimeo, mov, mkv (within the bounds of windows media player) and then users that join his/her room are able to (with permission of course) pause/play/ff the movie for everyone in the room, Making quarantine a little more fun for everyone.
 
